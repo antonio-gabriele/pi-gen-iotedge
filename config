@@ -1,0 +1,11 @@
+export IMG_NAME=ag-iotedge
+export RELEASE=bookworm
+export DEPLOY_ZIP=1
+export LOCALE_DEFAULT=en_US.UTF-8
+export TARGET_HOSTNAME=edge-dev-pi
+export KEYBOARD_KEYMAP=it
+export KEYBOARD_LAYOUT="Italian"
+export TIMEZONE_DEFAULT=Europe/Rome
+export FIRST_USER_NAME=iotedge
+export FIRST_USER_PASS=password
+export ENABLE_SSH=1
